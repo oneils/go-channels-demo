@@ -1,2 +1,4 @@
-# go-channels-demo
-Repository with example of using channels in Golang
+# go-examples
+
+TODO:
+Repository will contain go examples
